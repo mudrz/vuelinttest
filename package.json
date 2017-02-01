@@ -4,7 +4,6 @@
   "description": "For testing Vue linting in VS Code",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
