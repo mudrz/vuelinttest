@@ -2,6 +2,7 @@
     "vsicons.presets.angular": false,
     "editor.tabSize": 2,
     "eslint.enable": true,
+    "eslint.autoFixOnSave":true,
     "eslint.validate": [
       { "language": "javascript", "autoFix": true },
       { "language": "html", "autoFix": true }
