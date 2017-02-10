@@ -5,5 +5,7 @@
     "eslint.validate": [
       { "language": "javascript", "autoFix": true },
       { "language": "html", "autoFix": true }
-    ]
+    ],
+    "javascript.validate.enable": false,
+    "html.validate.scripts": false
 }
